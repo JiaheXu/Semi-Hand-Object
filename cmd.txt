@@ -1,0 +1,1 @@
+python3 demo.py --evaluate --HO3D_root=../dataset/HO3D_v2 --resume=./model.pth.tar --test_batch=1 --host_folder=exp_results
